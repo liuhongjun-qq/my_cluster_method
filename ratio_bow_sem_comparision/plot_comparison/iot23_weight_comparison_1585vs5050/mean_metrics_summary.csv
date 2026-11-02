@@ -1,0 +1,7 @@
+﻿metric,metric_name,setting,report_path,common_valid_batches,mean,median
+modularity,Modularity,BOW 0.15 / Semantic 0.85,data\iot23_b512_bow015_sem085_seed42_report.json,46,0.876524583307938,0.9625753473360634
+modularity,Modularity,BOW 0.5 / Semantic 0.5,data\iot23_b512_bow050_sem050_seed42_report.json,46,0.8681577231400271,0.9625398936240828
+ch,Calinski-Harabasz (CH),BOW 0.15 / Semantic 0.85,data\iot23_b512_bow015_sem085_seed42_report.json,46,531.833589752141,54.41434527520214
+ch,Calinski-Harabasz (CH),BOW 0.5 / Semantic 0.5,data\iot23_b512_bow050_sem050_seed42_report.json,46,55.03838024626527,16.767854781236384
+silhouette,Silhouette,BOW 0.15 / Semantic 0.85,data\iot23_b512_bow015_sem085_seed42_report.json,46,0.17491265160908154,0.005144229750116561
+silhouette,Silhouette,BOW 0.5 / Semantic 0.5,data\iot23_b512_bow050_sem050_seed42_report.json,46,0.0999053836911018,0.0011083419140070837

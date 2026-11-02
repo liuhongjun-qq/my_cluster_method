@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data / model artifacts (large files)
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.parquet
+*.feather
+*.pt
+*.pth
+*.ckpt
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Generated experiment outputs (regenerable, too large for git)
+outputs/
+
+# Raw / processed datasets (large files, not for git)
+IoT Network Intrusion Dataset.csv
+salad_test.csv
+salad_test_sorted_label.csv
+iotid20_ready.csv
+iot23_ready.csv
+cybersecurity_attacks.csv
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db

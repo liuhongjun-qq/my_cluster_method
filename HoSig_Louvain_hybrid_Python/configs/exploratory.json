@@ -1,0 +1,8 @@
+{
+  "seed": 42,
+  "decay_floor": 0.3,
+  "segmentation_beta": 0.01,
+  "left_window": 16,
+  "right_window": 16,
+  "min_block_size": 16
+}

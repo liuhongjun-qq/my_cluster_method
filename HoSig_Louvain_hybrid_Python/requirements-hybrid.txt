@@ -1,0 +1,2 @@
+# Install after requirements-fusion.txt to enable the semantic branch.
+sentence-transformers>=3.0.0
